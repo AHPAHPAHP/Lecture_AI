@@ -7,10 +7,14 @@ URL: https://www.kaggle.com/datasets/deepcontractor/is-that-santa-image-classifi
 The task of this dataset is to classify the images into the class 'Santa' and 'non-Santa'. The dataset has 1230 files which are divided into 4 directories.
 
 test/not-a-santa: 308 files. Image of people, actors, saints, super-hero, Gandalf, etc.
+
 test/Santa: 308 files.Image of Santa Claus
+
 train/not-a-santa: 307 files. Image of people, actors, saints, super-hero, Gandalf, etc.
+
 train/Santa: 307 files.Image of Santa Claus.
-Datasets
+
+# Datasets
 
 ## Train dataset: I used the 'train' directory to train the model.
 
