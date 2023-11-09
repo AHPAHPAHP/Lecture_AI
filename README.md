@@ -27,6 +27,7 @@ Test dataset: I chose 100 files randomly from 'test' directory.
 As they are images, the input features can be differ from models. First of all, as the task is to classify Santa and non-Santa, I used classification models: logistic regression, decision tree, SVC, MLP, and CNN.
 
 logistic regression, decision tree, SVC, MLP: linear input. The image is converted in linear vector and used as features.
+
 CNN: The spacial information is reflected in features. It will not converted in linear form in the convolutional layer.
 ...
 
@@ -35,4 +36,5 @@ CNN: The spacial information is reflected in features. It will not converted in 
 Target is to find out in which class the input image is.
 
 Santa
+
 Non-Santa
