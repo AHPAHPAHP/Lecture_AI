@@ -14,13 +14,13 @@ train/not-a-santa: 307 files. Image of people, actors, saints, super-hero, Ganda
 
 train/Santa: 307 files.Image of Santa Claus.
 
-# Datasets
+## Datasets
 
-## Train dataset: I used the 'train' directory to train the model.
+Train dataset: I used the 'train' directory to train the model.
 
-## Validation dataset: I chose 100 files randomly from 'test' directory.
+Validation dataset: I chose 100 files randomly from 'test' directory.
 
-## Test dataset: I chose 100 files randomly from 'test' directory.
+Test dataset: I chose 100 files randomly from 'test' directory.
 
 ## Features(x):
 
